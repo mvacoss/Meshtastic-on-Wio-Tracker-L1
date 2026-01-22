@@ -7,7 +7,7 @@ Well, it isn't anything special as you can see, but I'am planning to add tempera
 I also changed the incoming message notification sound (ring) using [RTTTL](https://en.wikipedia.org/wiki/Ring_Tone_Text_Transfer_Language) format with [this](https://1j01.github.io/rtttl.js/) library of melodies to further custmize my little mesh device.
 I will also add the code for this thing once I'll know how to properly do it and also when this device reaches state where it isn't only a copy-paste thing.
 
-## Currently features
+## Currently features:
 - L74K GPS Module
 - 2.13 inch E-Ink Display
 - Custom beeps
