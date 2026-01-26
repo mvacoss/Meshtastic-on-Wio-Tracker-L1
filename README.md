@@ -11,3 +11,7 @@ I will also add the code for this thing once I'll know how to properly do it and
 - L74K GPS Module
 - 2.13 inch E-Ink Display
 - Custom beeps
+
+## Firmware
+
+![MT-wio-L1-1](https://github.com/user-attachments/assets/e0916689-19b1-450a-9395-a8449160f76d)
